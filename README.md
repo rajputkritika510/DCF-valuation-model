@@ -6,6 +6,12 @@
 ![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?logo=pytest\&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 🌐 Live Demo
+
+🚀 **[Open DCF Valuation Dashboard](https://dcf-valuation-model-lvb2jmucpzjeqkqqvyhvtd.streamlit.app/)**
+
+Explore the interactive DCF valuation model with forecasting, WACC, sensitivity analysis, and scenario analysis.
+
 A Python-based **Discounted Cash Flow (DCF) Valuation Model** designed to estimate a company's intrinsic value using historical financial data, financial forecasting, WACC, terminal value, and scenario-based analysis.
 
 The project combines **Corporate Finance, Financial Modeling, Python, Excel, and Data Analytics** into an interactive valuation system.
